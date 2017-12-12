@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 525ebbf671aeed74ba5a0ef0c96234e1
+timeCreated: 1494883568
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Cartoonist Hand
+  fontNames:
+  - SF Cartoonist Hand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1640841fdf950044ab2e9ad245be705b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
